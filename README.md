@@ -5,5 +5,3 @@
 ## About Monico Technologies LTD
 
 Monico Technologies Limited, a big name in the tech sphere of Bangladesh, started its journey in 2011 with a pledge to innovate and bring groundbreaking results. Within a very short time, we could serve 1000+ customers through our in-house products and services.
-
-![Home](https://github.com/absbhaiya/Shodai_Ecom/blob/main/ss/home.png)
